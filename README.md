@@ -103,6 +103,7 @@ Doit renvoyer : Serveur démarré sur http://localhost:3000
 
 
 #### **Base de données**
+![Capture d’écran 2023-12-20 111732](https://github.com/DiegoRadigues/Examen_technoweb_20342/assets/99732004/d21f610e-4085-4291-b633-81585c5842b1)
 
 
 
