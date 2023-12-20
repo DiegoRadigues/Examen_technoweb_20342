@@ -44,13 +44,13 @@ nano backup_script.sh
 # Chemin vers le répertoire de sauvegarde
 backup_dir="/var/backups/db_web/"
 
-# Nom du fichier de sauvegarde (inclut la date)
+# Nom du fichier de sauvegarde
 backup_file="$backup_dir/db_backup_$(date +\%Y\%m\%d).sql"
 
 # Nom du fichier de journal
 log_file="$backup_dir/db_backup.log"
 
-# Informations de connexion à la base de données MySQL
+# Informations de connexion à la base de données
 db_user="root"
 db_password="mdp"
 db_name="VocabulaireDB"
@@ -107,6 +107,12 @@ Doit renvoyer : Serveur démarré sur http://localhost:3000
 
 #### **Base de données**
 ![Capture d’écran 2023-12-20 111732](https://github.com/DiegoRadigues/Examen_technoweb_20342/assets/99732004/d21f610e-4085-4291-b633-81585c5842b1)
+
+#### **Problèmes**
+
+Problème pour exporter la table 
+![image](https://github.com/DiegoRadigues/Examen_technoweb_20342/assets/99732004/80475428-1272-443a-af7f-fb5a84f057ce)
+
 
 
 
