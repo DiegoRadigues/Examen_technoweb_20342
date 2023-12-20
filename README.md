@@ -13,15 +13,24 @@ apt-get update && apt-get upgrade -y
 cd /chemin/destination
 ```
 
+#### **Installer les différents modules**
+```bash
+sudo apt-get update
+npm init
+sudo apt-get install nodejs npm
+```
+```bash
+npm install express --save
+npm install mysql2 --save
+```
+
+
+
+
 #### **Cloner le répertoire Github**
 ```bash
 git clone https://github.com/DiegoRadigues/Examen_technoweb_20342.git
 ```
-
-cd Examen_technoweb_20342
-
-
-
 
 
 #### **Script de sauvegarde :**
