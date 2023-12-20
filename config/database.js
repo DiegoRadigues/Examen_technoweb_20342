@@ -5,7 +5,7 @@ const pool = mysql.createPool({
     user: 'root',
     password: 'mdp',
     database: 'TelevisionDB',database: 'VocabulaireDB',
-    port: 3307, //car 3306 occupé mar mysql
+    port: 3307, //car j'ai un autre serveur mysql qui tourne sur le port 3306
     waitForConnections: true,
     connectionLimit: 10,
     queueLimit: 0
