@@ -96,6 +96,9 @@ node app.js
 ```
 Doit renvoyer : Serveur démarré sur http://localhost:3000
 
+![image](https://github.com/DiegoRadigues/Examen_technoweb_20342/assets/99732004/e076eb4f-ee19-4d3c-bdd5-e919530762b1)
+
+
 #### **Utilisation de l'interface**
 ![Capture d’écran 2023-12-20 111011](https://github.com/DiegoRadigues/Examen_technoweb_20342/assets/99732004/614cd200-6e4c-4525-a0e7-fb0167da074d)
 ![Capture d’écran 2023-12-20 111107](https://github.com/DiegoRadigues/Examen_technoweb_20342/assets/99732004/d83ed08c-c229-407e-a5ba-1db013c28132)
