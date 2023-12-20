@@ -81,6 +81,12 @@ sudo crontab -e
 0 0 * * * /chemin/vers/backup_script.sh
 ```
 
+#### **Autoriser le port 80**
+```bash
+sudo ufw allow 80/tcp
+```
+
+
 #### **Lancer le serveur**
 ```bash
 cd Examen_technoweb_20342/
@@ -91,16 +97,13 @@ node app.js
 Doit renvoyer : Serveur démarré sur http://localhost:3000
 
 #### **Utilisation de l'interface**
+![Capture d’écran 2023-12-20 111011](https://github.com/DiegoRadigues/Examen_technoweb_20342/assets/99732004/614cd200-6e4c-4525-a0e7-fb0167da074d)
+![Capture d’écran 2023-12-20 111107](https://github.com/DiegoRadigues/Examen_technoweb_20342/assets/99732004/d83ed08c-c229-407e-a5ba-1db013c28132)
+![Capture d’écran 2023-12-20 111412](https://github.com/DiegoRadigues/Examen_technoweb_20342/assets/99732004/626a0815-a9e7-4fe4-a80c-f4bb4ac03d91)
 
-![Capture d’écran 2023-12-20 111011](https://github.com/DiegoRadigues/Examen_technoweb_20342/assets/99732004/ad93a4a9-77b4-475b-8741-f4fdb176e79e)
-
-![Capture d’écran 2023-12-20 111107](https://github.com/DiegoRadigues/Examen_technoweb_20342/assets/99732004/4c926a59-ff9b-493a-b4a6-505d8af2da97)
-
-![Capture d’écran 2023-12-20 111412](https://github.com/DiegoRadigues/Examen_technoweb_20342/assets/99732004/7d224ac9-17c3-4719-9e00-128ad4bb4ff2)
 
 #### **Base de données**
 
-![Capture d’écran 2023-12-20 111732](https://github.com/DiegoRadigues/Examen_technoweb_20342/assets/99732004/015aa3c2-3f2a-4813-8bed-9dd4fe4a4dc1)
 
 
 
