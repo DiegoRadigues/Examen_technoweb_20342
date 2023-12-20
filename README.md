@@ -80,6 +80,16 @@ sudo crontab -e
 ```bash
 0 0 * * * /chemin/vers/backup_script.sh
 ```
+
+#### **Lancer le serveur**
+```bash
+cd Examen_technoweb_20342/
+```
+```bash
+node app.js
+```
+
+
 #### **Utilisation de l'interface**
 
 ![Capture d’écran 2023-12-20 111011](https://github.com/DiegoRadigues/Examen_technoweb_20342/assets/99732004/ad93a4a9-77b4-475b-8741-f4fdb176e79e)
