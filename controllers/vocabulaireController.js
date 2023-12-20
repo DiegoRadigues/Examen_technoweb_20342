@@ -83,7 +83,3 @@ exports.postRepondre = async (req, res, next) => {
     }
 };
 
-
-
-//gestion des réponses
-//mise à jour des taux de réussite
