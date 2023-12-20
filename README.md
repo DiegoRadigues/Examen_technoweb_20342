@@ -88,7 +88,7 @@ cd Examen_technoweb_20342/
 ```bash
 node app.js
 ```
-
+Doit renvoyer : Serveur démarré sur http://localhost:3000
 
 #### **Utilisation de l'interface**
 
